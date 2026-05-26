@@ -18,5 +18,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/bisna-binu2713/)
+[![LeetCode](https://leetcode.com/u/Bisna_Binu/)
